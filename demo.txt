@@ -19,5 +19,8 @@ function demotest(str){
         }
     }
     console.log(count1)
+    
+    let a="mango"
+    let c="ice cream"
 
 }
