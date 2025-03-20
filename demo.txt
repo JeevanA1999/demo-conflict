@@ -11,13 +11,13 @@ will
 function demotest(str){
     console.log("dome)
 
-    let count=0
+    let count1=0
 
     for(let i=0;i<str,length;i++){
         if(str[i]=="e"){
-            count=count+1
+            count1=coun1t+1
         }
     }
-    console.log(count)
+    console.log(count1)
 
 }
