@@ -1,5 +1,23 @@
 jeevan
 jithesh
+shash
+manoj
+jk
 devil
 shadow
 will
+
+
+function demotest(str){
+    console.log("dome)
+
+    let count1=0
+
+    for(let i=0;i<str,length;i++){
+        if(str[i]=="e"){
+            count1=count1+1
+        }
+    }
+    console.log(count1)
+
+}
